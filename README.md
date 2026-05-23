@@ -24,7 +24,6 @@ that bridges LLM reasoning with Control Barrier Functions (CBF) for collision-fr
 
 **Web:** React · Node.js · Django · Express
 
-`Python · PyTorch · JAX` `LLMs · LoRA/QLoRA · NLP` `Rust · C · C++` `ARM Cortex-M3 · CAN Bus` `Apache Spark · Hadoop` `PostgreSQL · MongoDB` `React · Node.js · Django`
 ---
 
 ## 📌 Projects
