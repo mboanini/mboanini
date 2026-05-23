@@ -42,7 +42,7 @@ Novel eval metric for Chain-of-Thought logical consistency. Benchmarked on Llama
 
 
 
-### 🦀 [Remote File System](#)
+### 🦀 [Remote File System](https://github.com/RUST-PROJECT-2025/remote-file-system)
 High-perf FUSE daemon in Rust exposing a REST backend as a local Linux mount — <500ms latency
 
 `Rust` `Tokio` `FUSE`
