@@ -32,6 +32,14 @@ that bridges LLM reasoning with Control Barrier Functions (CBF) for collision-fr
 | 🦀 [Remote File System (FUSE)](#) | High-perf Rust daemon exposing a REST backend as a local Linux mount. Latency <500ms | Rust · Tokio · FUSE |
 | 🔤 [NLP Vocabulary Adaptation](#) | Reproduced SAVA on Llama 3.1-8B — 12.4% token fertility reduction for Italian | QLoRA · PEFT |
 
+**[safe-robot-swarm-control](#)** — LLM + CBF framework for decentralized, collision-free multi-agent coordination `Python · CBF`
+
+**[reasoning-coherence-score](#)** — Novel eval metric for Chain-of-Thought logical consistency across LLMs `DeBERTa · NLI`
+
+**[rust-remote-fs](#)** — FUSE daemon in Rust exposing a REST backend as a local Linux mount — <500ms latency `Rust · FUSE`
+
+**[nlp-vocab-adaptation](#)** — Reproduced SAVA on Llama 3.1-8B — 12.4% token fertility reduction for Italian `QLoRA · PEFT`
+
 ---
 
 ## 🎻 Beyond code
