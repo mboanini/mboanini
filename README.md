@@ -49,7 +49,7 @@ High-perf FUSE daemon in Rust exposing a REST backend as a local Linux mount —
 
 
 
-### 🔤 [NLP Vocab Adaptation](#)
+### 🔤 [NLP Vocab Adaptation](https://github.com/mboanini/llm-vocab-adaptation-italian)
 Reproduced SAVA on Llama 3.1-8B — 12.4% token fertility reduction for Italian
 
 `QLoRA` `PEFT` `PyTorch`
