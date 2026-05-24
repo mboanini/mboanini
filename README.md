@@ -3,7 +3,7 @@
 M.Sc. Computer Science candidate (UIC / Politecnico di Torino) — dual degree in AI & Data Analytics.
 I build at the intersection of **LLMs**, **systems programming**, and **embedded & robotics**.
 
-`📍 Chicago, IL`   `STEM OPT · 3yr`   `🇮🇹 EU citizen`
+`📍 Chicago, IL, USA`   `STEM OPT · 3yr`   `🇮🇹 EU citizen`
 
 ---
 
