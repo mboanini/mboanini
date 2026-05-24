@@ -56,7 +56,7 @@ Reproduced SAVA on Llama 3.1-8B — 12.4% token fertility reduction for Italian
 
 ---
 
-*📫 margherita.boanini@gmail.com · [LinkedIn](www.linkedin.com/in/margherita-boanini)*
+*📫 margherita.boanini@gmail.com 
 
 <!--
 **mboanini/mboanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
