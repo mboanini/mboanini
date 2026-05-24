@@ -56,10 +56,6 @@ Reproduced SAVA on Llama 3.1-8B — 12.4% token fertility reduction for Italian
 
 ---
 
-🎻 Violinist & violist · 18 years · Bachelor of Music candidate at Scuola di Musica di Fiesole.
-
----
-
 *📫 margherita.boanini@gmail.com · [LinkedIn](www.linkedin.com/in/margherita-boanini-0a996039b)*
 
 <!--
