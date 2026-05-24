@@ -34,18 +34,18 @@ LLM + CBF framework for collision-free multi-agent coordination
 `Python` `CBF` `LLMs`
 
 
+### 🦀 [Remote File System](https://github.com/RUST-PROJECT-2025/remote-file-system)
+High-perf FUSE daemon in Rust exposing a REST backend as a local Linux mount — <500ms latency
+
+`Rust` `Tokio` `FUSE`
+
+
 
 ### 📊 [Reasoning Coherence Score](#)
 Novel eval metric for Chain-of-Thought logical consistency. Benchmarked on Llama 3.1, DeepSeek, Phi 3.5
 
 `DeBERTa-v3` `NLI` `Python`
 
-
-
-### 🦀 [Remote File System](https://github.com/RUST-PROJECT-2025/remote-file-system)
-High-perf FUSE daemon in Rust exposing a REST backend as a local Linux mount — <500ms latency
-
-`Rust` `Tokio` `FUSE`
 
 
 
