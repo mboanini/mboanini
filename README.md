@@ -12,6 +12,7 @@ I build at the intersection of **LLMs**, **systems programming**, and **embedded
 Graduate researcher at UIC — developing a safe multi-agent motion planning framework
 that bridges LLM reasoning with Control Barrier Functions (CBF) for collision-free swarm coordination.
 
+<!--
 ---
 
 ## 🛠 Tech stack
@@ -23,7 +24,7 @@ that bridges LLM reasoning with Control Barrier Functions (CBF) for collision-fr
 **Data:** Apache Spark · Hadoop · PostgreSQL · MongoDB
 
 **Web:** React · Node.js · Django · Express
-
+-->
 ---
 
 ## 📌 Projects
