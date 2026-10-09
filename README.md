@@ -7,7 +7,7 @@ I build at the intersection of **LLMs**, **systems programming**, and **embedded
 
 ---
 
-## 🔬 What I'm working on
+## What I'm working on
 
 Graduate researcher at UIC — developing a safe multi-agent motion planning framework
 that bridges LLM reasoning with Control Barrier Functions (CBF) for collision-free swarm coordination.
@@ -29,20 +29,20 @@ that bridges LLM reasoning with Control Barrier Functions (CBF) for collision-fr
 
 ## 📌 Projects
 
-### 🤖 [Safe Robot Swarm Control](#)
+### [Safe Robot Swarm Control](#)
 LLM + CBF framework for collision-free multi-agent coordination
 
 `Python` `CBF` `LLMs`
 
 
-### 🦀 [Remote File System](https://github.com/RUST-PROJECT-2025/remote-file-system)
+### [Remote File System](https://github.com/RUST-PROJECT-2025/remote-file-system)
 High-perf FUSE daemon in Rust exposing a REST backend as a local Linux mount — <500ms latency
 
 `Rust` `Tokio` `FUSE`
 
 
 
-### 📊 [Reasoning Coherence Score](#)
+### [Reasoning Coherence Score](#)
 Novel eval metric for Chain-of-Thought logical consistency. Benchmarked on Llama 3.1, DeepSeek, Phi 3.5
 
 `DeBERTa-v3` `NLI` `Python`
@@ -50,7 +50,7 @@ Novel eval metric for Chain-of-Thought logical consistency. Benchmarked on Llama
 
 
 
-### 🔤 [NLP Vocab Adaptation](https://github.com/mboanini/llm-vocab-adaptation-italian)
+### [NLP Vocab Adaptation](https://github.com/mboanini/llm-vocab-adaptation-italian)
 Reproduced SAVA on Llama 3.1-8B — 12.4% token fertility reduction for Italian
 
 `QLoRA` `PEFT` `PyTorch`
