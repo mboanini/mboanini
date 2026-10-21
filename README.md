@@ -6,11 +6,11 @@ M.Sc. Computer Science candidate (UIC / Politecnico di Torino) — dual degree i
 `📍 Chicago, IL, USA`   `STEM OPT · 3yr`   `🇮🇹 EU citizen`
 
 ---
-
+<!--
 ## What I'm working on
 
 Graduate researcher at UIC — developing a safe multi-agent motion planning framework
-that bridges LLM reasoning with Control Barrier Functions (CBF) for collision-free swarm coordination.
+that bridges LLM reasoning with Control Barrier Functions (CBF) for collision-free swarm coordination.-->
 
 <!--
 ---
@@ -28,11 +28,11 @@ that bridges LLM reasoning with Control Barrier Functions (CBF) for collision-fr
 ---
 
 ## 📌 Projects
-
+<!--
 ### [Safe Robot Swarm Control](#)
 LLM + CBF framework for collision-free multi-agent coordination
 
-`Python` `CBF` `LLMs`
+`Python` `CBF` `LLMs`-->
 
 
 ### [Remote File System](https://github.com/RUST-PROJECT-2025/remote-file-system)
