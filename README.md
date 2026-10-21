@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Margherita
 
 M.Sc. Computer Science candidate (UIC / Politecnico di Torino) — dual degree in AI & Data Analytics.
-I build at the intersection of **LLMs**, **systems programming**, and **embedded & robotics**.
+<!-- I build at the intersection of **LLMs**, **systems programming**, and **embedded & robotics**. -->
 
 `📍 Chicago, IL, USA`   `STEM OPT · 3yr`   `🇮🇹 EU citizen`
 
